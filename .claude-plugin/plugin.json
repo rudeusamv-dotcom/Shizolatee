@@ -1,0 +1,1 @@
+{ "name": "model-saver", "version": "0.1.1", "description": "Подсказывает, какой более дешёвой модели хватит для твоего запроса", "types": "./types/index.d.ts" }
