@@ -1,0 +1,5 @@
+{
+  "name": "shizolate-mods",
+  "owner": { "name": "Shizolatee" },
+  "plugins": [{ "name": "model-saver", "source": "./" }]
+}
